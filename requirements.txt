@@ -1,3 +1,4 @@
+accelerate==1.10.1
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.5
 aiosignal==1.4.0
@@ -50,6 +51,7 @@ prometheus_client==0.25.0
 prometheus_flask_exporter==0.23.2
 propcache==0.4.1
 protobuf==4.25.9
+psutil==7.2.2
 pyarrow==21.0.0
 pydantic==2.13.4
 pydantic_core==2.46.4
